@@ -1,12 +1,43 @@
-# React + Vite
+# 🎬 Video Streaming Web App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive video streaming platform built with **React.js**, **Tailwind CSS**, and the **YouTube Data API**. Features include real-time video search, dynamic rendering, and a clean, mobile-first UI. Deployed with **Vite** and hosted on **Vercel**.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔗 [Live Demo](https://video-stream-master-sage.vercel.app/)  
+💻 [GitHub Repository](https://github.com/venky-webdev-pro/VideoStream-master)
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+## 🛠️ Tech Stack
+
+- ⚛️ React.js
+- 🎨 Tailwind CSS
+- 📡 YouTube Data API
+- ⚡ Vite
+- 🌐 Vercel (Deployment)
+
+## ✨ Features
+
+- 🔍 Real-time video search using YouTube API
+- 📺 Dynamic rendering of video content
+- 📱 Fully responsive design (mobile-first)
+- 🧱 Reusable React components with clean architecture
+- ⚡ Fast build and load times with Vite
+- 🚀 CI/CD and live deployment via Vercel
+
+
+## 📚 What I Learned
+
+- Working with external APIs and async data
+- Optimizing UI with Tailwind CSS and React state management
+- Deploying with Vercel and using Git for version control
+
+
+## 🤝 Let's Connect
+
+💼 [LinkedIn Profile](https://www.linkedin.com/in/venkatalakshmi-nimmana-linpro/)  
+📧 [nimmanavenkatalakshmi93@gmail.com](mailto:nimmanavenkatalakshmi93@gmail.com)
+
+
+
