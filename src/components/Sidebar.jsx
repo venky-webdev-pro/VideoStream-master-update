@@ -169,7 +169,7 @@ function Sidebar() {
           return (
             <div
               key={item.id}
-              className="flex items-center space-x-6 hover:bg-gray-300 duration-300 rounded-xl p-1"
+              className="flex items-center space-x-6 hover:bg-gray-300  hover:text-black duration-300 rounded-xl p-1"
             >
               <div className="text-xl cursor-pointer">
                 <Link to={item.to}>{item.icon}</Link>
@@ -193,7 +193,7 @@ function Sidebar() {
           return (
             <div
               key={item.id}
-              className="flex items-center space-x-6 hover:bg-gray-300 duration-300 rounded-xl p-1"
+              className="flex items-center space-x-6 hover:bg-gray-300   hover:text-black duration-300 rounded-xl p-1"
             >
               <div className="text-xl cursor-pointer">{item.icon}</div>
               <span className="cursor-pointer">{item.name}</span>
@@ -212,7 +212,7 @@ function Sidebar() {
           return (
             <div
               key={item.id}
-              className="flex items-center space-x-6 hover:bg-gray-300 duration-300 rounded-xl p-1"
+              className="flex items-center space-x-6 hover:bg-gray-300  hover:text-black duration-300 rounded-xl p-1"
             >
               <div className="text-xl cursor-pointer">{item.icon}</div>
               <span className="cursor-pointer">{item.name}</span>
@@ -231,7 +231,7 @@ function Sidebar() {
           return (
             <div
               key={item.id}
-              className="flex items-center space-x-6 hover:bg-gray-300 duration-300 rounded-xl p-1"
+              className="flex items-center space-x-6 hover:bg-gray-300  hover:text-black duration-300 rounded-xl p-1"
             >
               <div className="text-xl cursor-pointer text-amber-500 text-shadow-lg/30">
                 {item.icon}
